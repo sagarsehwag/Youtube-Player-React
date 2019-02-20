@@ -1,4 +1,4 @@
-# Pics
+# Youtube Player
 
 In this project i have taken input from the user and fetch youtube videos from the Youtube API and presented on to the webpage using React which can be played within the webpage using the native youtube player as i have embeded the video using the iframes. I have used function based as well as class based component.
 
